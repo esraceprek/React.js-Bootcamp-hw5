@@ -51,7 +51,7 @@ export default class App extends Component {
      </div>
       
       <div className="col-md-4"> 
-      <Kelvin kelvin = {this.state.currentTemperature}/>
+      <Kelvin kelvin= {this.state.currentTemperature}/>
       </div>
       
      </div>
